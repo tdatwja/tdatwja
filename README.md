@@ -8,9 +8,10 @@
 - 板橋区主催　ごみ拾い選手権　運営補助
 - 北区主催　「高校生×環境」ワークショップ参加
 - バイオ技術者認定試験中級
-- 株式会社Slicetone　アルバイト（2年次3月～）
+- 株式会社Slicetone　インターンシップ（2年次3月～）
 - EAGLYS株式会社　インターンシップ（3年次4月～）
 - SA（スチューデント・アシスタント）（3年次）
+- 2022年　SecHack365　思索駆動コース参加
 
 <!---
 tdatwja/tdatwja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
