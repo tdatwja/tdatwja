@@ -13,6 +13,7 @@
 - EAGLYS株式会社　インターンシップ（2022年4月～）
 - SA（スチューデント・アシスタント）（3年次）
 - SecHack365　思索駆動コース参加（2022年）
+- セキュリティキャンプ（2022年）
 
 <!---
 tdatwja/tdatwja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
